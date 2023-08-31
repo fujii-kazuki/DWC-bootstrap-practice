@@ -3,3 +3,39 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.header {
+  background-color: #ff00ff;
+}
+
+.logo, .nav-list-item {
+  background-color: #fbb3ff;
+  height: 70px;
+}
+
+.nav-list {
+  list-style: none;
+  margin: 0;
+}
+
+.sidebar {
+  background-color: #d8ffb6;
+}
+
+.main {
+  background-color: #00b522;
+}
+
+.main-box {
+  background-color: #fff75a;
+  height: 130px;
+}
+
+.footer {
+  background-color: #52a1ff;
+}
+
+.footer-box {
+  background-color: #b6e7ff;
+  height: 40px;
+}
